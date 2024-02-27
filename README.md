@@ -1,1 +1,1 @@
-# typescript_assignment_124
+# typescript_assignment_24
